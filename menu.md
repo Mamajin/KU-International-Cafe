@@ -1,6 +1,6 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ... | [Beverages](#beverages)
+[Korean Food Section](#korean-food-section) | ... | [Beverages](#beverages)
 
 ## Korean Food Section
 | Dish         | Description                                                                                                                                                                                                                                    | Image                                         | Price |
@@ -15,5 +15,3 @@
 | Beverages | Description                                                                  | Image                                     | Price |
 |:----------|------------------------------------------------------------------------------|-------------------------------------------|-------|
 | Lemon Tea | Refreshing a perfect blend of sweet and sour. Great for hot days or any day. | <img src="images/lemontea.jpg" width=200> | 39    |
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
