@@ -6,5 +6,7 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                                | Contributor        |
 |:---------------------------------------|--------------------|
-| 1. [Thai Food]()                       | Phantawat          |
+| [Thai Food]()                       | Phantawat          |
+| [Japanese Food](menu.md#Japanese) |Ichi1234    |
+
 
