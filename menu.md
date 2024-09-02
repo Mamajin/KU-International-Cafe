@@ -2,6 +2,7 @@
 
 [Thai Food](#thai-food) | ... | [Beverages](#beverages)
 
+
 ## Thai Food
 | Name                            | Description                                                                                |                                                                                     | Price |
 |:--------------------------------|:-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------:|
@@ -10,6 +11,7 @@
 | Miang Kham                      | Snack of roasted coconut, peanuts, and herbs wrapped in betel leaves.                      | <img src="images/miangkhum.jpg" alt="Miang Kham" width="200" height="200">          |   39฿ |
 | Sai Oua (Northern Thai Sausage) | Spicy, aromatic grilled pork sausage with lemongrass and affirm lime leaves.               | <img src="images/saioua.jpg" alt="Sai Oua" width="200" height="200">                |   69฿ |
 | Som Tum (Green Papaya Salad)    | Spicy and tangy salad made from shredded green papaya, with peanuts, lime, and chilies.    | <img src="images/somtum.jpg" alt="Som Tum" width="200" height="200">                |   59฿ |
+
 
 ## Beverages
 | Name                    | Description                                                                  |                                                                      | Price |
