@@ -6,4 +6,8 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [Junk Food](menu.md#junk-food)        | Bill Gates         |
+| [Korean Food]()                         | Phasit             |
+| [Indian Food]()                       | Napoldej           |
+| [Italian Food]()                       | Sunthorn           |
+| [Japanese Food]()                      | Kasidet            |
+| [Thai Food]()                           | Phatawat           |
