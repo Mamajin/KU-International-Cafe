@@ -12,9 +12,6 @@
 | Omurice  | The rice omelet                    | <img src="./images/omurice.png" width="200" height="200" alt="Omurice">   |  100฿ |  
 | Gyosa    | The Japanese ravioli               | <img src="./images/gyosa.png" width="200" height="200" alt="Gyosa">       |   69฿ |  
 
-<head> 
- <icon >
-</head>
 
 ## Beverages
 
