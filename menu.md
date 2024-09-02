@@ -12,3 +12,4 @@
 
 > A table of beverages. Each team member adds one beverage (one row) to the table.
 > Result should be in alphabetical order by beverage name.
+
