@@ -5,6 +5,6 @@ Write a one or two sentence description of your cafe.
 ## [Menu](menu.md)
 
 | Cuisine                           | Contributor |
-|:----------------------------------|-------------|
-| [Japanese Food](menu.md#Japanese) | Ichi1234    |
+|:----------------------------------|------------|
+| [Japanese Food](menu.md#Japanese) |Ichi1234    |
 
