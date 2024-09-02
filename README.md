@@ -6,5 +6,5 @@ Write a one or two sentence description of your cafe.
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| [IndianFood](menu.md/(#indian-food))                                    | Napoldej                 |
+| [IndianFood](menu.md#indian-food)                                    | Napoldej                 |
 
