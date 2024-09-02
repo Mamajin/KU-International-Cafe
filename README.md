@@ -1,9 +1,14 @@
-# Name of Your Cafe
+# KU International Cafe
 
 Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
+
 | Cuisine                                     | Contributor        |
 |:--------------------------------------------|--------------------|
-| [Korean Food](menu.md/#korean-food-section) | Phasit             |
+| [Italian Food](menu.md#italian-food) |Sunthorn            |
+| [Japanese Food](menu.md#Japanese)      |Kasidet             |
+| [Korean Food](menu.md#korean-food-section) | Phasit             |
+| [Thai Food](menu.md#thai-food)         | Phantawat          |
+
