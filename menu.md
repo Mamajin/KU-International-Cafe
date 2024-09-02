@@ -1,6 +1,6 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ... | [Beverages](#beverages)
+[Indian Food](#indian-food) | ... | [Beverages](#beverages)
 
 ## Indian Food
 | Name       | Description                 |                        | Price  |
@@ -14,6 +14,8 @@
 
 
 ## Beverages
+
+## Masala Chai
 
 |Name | Description |               |Price|
 |:----|:-------------|--------------|-----:|
