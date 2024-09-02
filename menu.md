@@ -1,6 +1,6 @@
 ## Menu
 
-[Italian Food](#first-food-section) | ... | [Beverages](#beverages)
+[Italian Food](#italian-food) | ... | [Beverages](#beverages)
 
 ## Italian Food
 

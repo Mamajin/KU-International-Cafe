@@ -4,6 +4,6 @@ Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine          | Contributor |
-|:-----------------|-------------|
-| [Italian Food]() | Sunthorn    |
+| Cuisine                               | Contributor |
+|:--------------------------------------|-------------|
+| [Italian Food](menu.md/ #italian-food | Sunthorn    |
